@@ -1,7 +1,7 @@
 
 ## LECTURA SOBRE UNIT TEST CON KARMA JASMINE
 
- [Lectura](https://github.com/angular/angular-cli)
+ [Lectura](https://github.com/marioajuez/testing-angular/blob/main/resume.md)
 
 
 # CursoAngularUnitTestingFormsRouting
